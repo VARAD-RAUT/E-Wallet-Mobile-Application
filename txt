@@ -1,0 +1,4 @@
+amount DECIMAL(10, 2) NOT NULL,
+
+DECIMAL(10,2) means 10 digits in total and 2 digits after the decimal point 
+the max value it can store is 99999999.99 (8 digits before decimal and 2 after decimal)
