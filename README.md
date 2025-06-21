@@ -21,3 +21,11 @@ A cross-platform mobile application built using **React Native (Expo)** that all
 🧠 Beginner Friendly: No prior React Native experience needed—only basic React knowledge
 💸 100% Free Tools: No need to pay for anything
 🧪 Real Device Testing: Run the app on your own phone without a Mac
+
+
+- 🔐 **User Authentication**
+  - Sign up, login, and logout functionality using Firebase Auth.
+
+- 💰 **Wallet Balance Tracking**
+  - Displays current wallet balance.
+  - Option to add or deduct funds (simulated transactions).
