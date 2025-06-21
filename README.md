@@ -6,8 +6,6 @@ A cross-platform mobile application built using **React Native (Expo)** that all
 
 ## 📱 Features
 
-## 🚀 Key Features
-
 - 📱 **Cross-Platform App** – Built using **React Native** and **Expo**, compatible with both Android and iOS.
 - 🔐 **Authentication** – Secure signup and login flows using **Clerk**.
 - 📩 **Email Verification** – 6-digit code verification required before accessing the app.
